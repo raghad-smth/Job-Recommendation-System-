@@ -46,6 +46,7 @@ jd_formatting_prompt = PromptTemplate(
     """
 )
 
+
 comparison_prompt = PromptTemplate(
     input_variables=["job_description", "candidates"],
     template="""
