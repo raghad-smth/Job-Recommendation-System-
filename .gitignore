@@ -8,6 +8,4 @@ __pycache__/
 # Ignore Streamlit and local stuff
 .streamlit/
 .DS_Store
-Bad_candidate.pdf
-Perfect_candidate.pdf
 ML_JD.pdf
